@@ -1,0 +1,16 @@
+var name="Harsh Shukla";
+var school="Harvard School";
+var grade="70%";
+var section="A";
+var rollno="0249";
+var math_marks=70;
+var sst_marks=70;
+var cms_marks=70;
+console.log("Name:" + " " + name);
+console.log("School:" + " " + school);
+console.log("Grade:" + " " + grade);
+console.log("Section:" + " " + section);
+console.log("Roll number:" + " " + rollno);
+console.log("math marks:" + " " + math_marks);
+console.log("Social Study marks:" +  " " + sst_marks);
+console.log("Chemistry marks:" +  " " + cms_marks);
